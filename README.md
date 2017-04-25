@@ -1,4 +1,7 @@
-# api documentation for  [jquery.maskedinput (v1.4.1)](https://github.com/excellalabs/jquery.maskedinput#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-jquery.maskedinput.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jquery.maskedinput) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jquery.maskedinput.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jquery.maskedinput)
+# npmdoc-jquery.maskedinput
+
+#### basic api documentation for  [jquery.maskedinput (v1.4.1)](https://github.com/excellalabs/jquery.maskedinput#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-jquery.maskedinput.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jquery.maskedinput) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jquery.maskedinput.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jquery.maskedinput)
+
 #### jQuery Masked Input Plugin
 
 [![NPM](https://nodei.co/npm/jquery.maskedinput.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/jquery.maskedinput)
@@ -63,7 +66,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "1.4.1"
+    "version": "1.4.1",
+    "bin": {}
 }
 ```
 
